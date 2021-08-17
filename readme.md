@@ -3,7 +3,7 @@
   
 
 ## URL
-- 
+- https://megafriday.github.io/Blob-js/
 - https://news.mynavi.jp/article/zerojavascript-10/
 - https://www.sejuku.net/blog/67735
 
