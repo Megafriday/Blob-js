@@ -3,11 +3,11 @@
   
 P
 ### URL
-- https://megafriday.github.io/Blob-js/
+- https://megafriday.github.io/kujira-Blob-js/
 - https://news.mynavi.jp/article/zerojavascript-10/
   
 
 ### blob-jikkenフォルダ
 - https://www.sejuku.net/blog/67735
-- https://megafriday.github.io/Blob-js/blob-jikken/index.html
-- https://megafriday.github.io/Blob-js/blob-jikken/index2.html
+- https://megafriday.github.io/kujira-Blob-js/blob-jikken/index.html
+- https://megafriday.github.io/kujira-Blob-js/blob-jikken/index2.html
